@@ -1,2 +1,2 @@
 # React
-Curso e estudos de react
+Atividades de estudo referentes ao curso de React do professsor Matheus Battisti.
