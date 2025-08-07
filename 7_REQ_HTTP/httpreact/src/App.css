@@ -1,0 +1,38 @@
+body {
+
+  font-family: Helvetica;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.add-product {
+  border-top: 1px solid #000
+}
+
+form {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+form input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.App ul {
+  background-color: rgb(231, 241, 247);
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.App h1 {
+  background-color: rgb(231, 241, 247);
+  padding: 10px;
+  border-radius: 5px;
+  color: rgb(83, 83, 83);
+}
